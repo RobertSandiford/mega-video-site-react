@@ -1,0 +1,13 @@
+.container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.link {
+    font-size: 120%;
+    padding: 0 2vw;
+    color: blue;
+    text-decoration: none;
+}
+.link:hover {
+    text-decoration: underline;
+}

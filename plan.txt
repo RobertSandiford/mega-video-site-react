@@ -1,0 +1,28 @@
+
+Website
+	View Videos
+	
+	Register
+		Login
+			Viewer
+				Buy Membership
+				Pay for video
+
+			Seller
+				Upload Video
+					Set Info
+
+
+Components
+	
+	Website
+		Frontend
+			Video player
+		Backend data supply
+			Video Stream
+
+	User Auth
+
+	Video Uploading
+
+	Mailer?

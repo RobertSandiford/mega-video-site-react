@@ -1,0 +1,6 @@
+.player {
+    width: 30vw;
+    height: 30vw;   
+    background: grey;
+    border-radius: 3vw;
+}
